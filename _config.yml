@@ -2,6 +2,22 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
+navbar:
+  - title: Home
+    url: /
+  - title: People
+    url: /people/
+  - title: Research Areas
+    url: /research/
+  - title: Publications
+    url: /publications/
+  - title: Data & Code
+    url: /data-code/
+  - title: Join Us
+    url: /join-us/
+  - title: Contact
+    url: /contact/
+    
 title: blank # the website title (if blank, full name will be used instead)
 first_name: You
 middle_name: R.
