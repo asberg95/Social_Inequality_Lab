@@ -9,14 +9,7 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/Social_Inequality_Lab/";
     },
-  },{id: "nav-blog",
-          title: "Blog",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/Social_Inequality_Lab/blog/";
-          },
-        },{id: "nav-lab-members",
+  },{id: "nav-lab-members",
           title: "Lab Members",
           description: "Meet the members of the Social Inequality Lab.",
           section: "Navigation",
