@@ -278,18 +278,9 @@ jekyll-archives:
   books:
     enabled: [year, tags, categories] # enables year, tag and category archives (remove if you need to disable one of them).
 
-display_tags: ["formatting", "images", "links", "math", "code", "blockquotes"] # these tags will be displayed on the front page of your blog
-display_categories: [active, funded]
+display_tags: ["formatting", "images", "links", "math", "code", "blockquotes"]
+display_categories: ["external-services"]
 
-# In _pages/projects.md front matter:
-display_categories: [
-  "Income & Wealth",
-  "Race & Ethnicity", 
-  "Gender",
-  "Health Disparities",
-  "Education",
-  "Methods"
-]
 
 # -----------------------------------------------------------------------------
 
