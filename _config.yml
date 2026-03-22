@@ -2,22 +2,6 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-navbar:
-  - title: Home
-    url: /
-  - title: People
-    url: /people/
-  - title: Research Areas
-    url: /research/
-  - title: Publications
-    url: /publications/
-  - title: Data & Code
-    url: /data-code/
-  - title: Join Us
-    url: /join-us/
-  - title: Contact
-    url: /contact/
-    
 title: Social Inequality Lab
 first_name: Social Inequality
 last_name: Lab
@@ -28,8 +12,8 @@ description: >
   across class, race, gender, and place.
 keywords: social inequality, sociology, computational social science, research lab
 icon: ⚖️  # or 📊 — something fitting
-url: https://yourusername.github.io
-baseurl: /social-inequality-lab
+url: https://asberg95.github.io
+baseurl: /Social_Inequality_Lab
 
 # -----------------------------------------------------------------------------
 # Theme
@@ -136,6 +120,7 @@ disqus_shortname: al-folio # put your disqus shortname
 # you can display them in your blog by adding a link to the RSS feed.
 # Optional: Set default categories and tags for posts from each source.
 external_sources:
+  - enabled: false
   - name: medium.com
     rss_url: https://medium.com/@al-folio/feed
     categories: [external-posts]
@@ -161,15 +146,13 @@ newsletter:
 # -----------------------------------------------------------------------------
 
 collections:
-  books:
-    output: true
   news:
     defaults:
       layout: post
     output: true
   projects:
     output: true
-  teachings:
+  people:
     output: true
 
 # -----------------------------------------------------------------------------
@@ -631,23 +614,4 @@ third_party_libraries:
     version: "2.1.8"
 
 # -----------------------------------------------------------------------------
-# Get external JSON data
-# -----------------------------------------------------------------------------
 
-jekyll_get_json:
-  - data: resume
-    json: assets/json/resume.json # it can also be an url
-
-jsonresume:
-  - basics
-  - work
-  - education
-  - publications
-  - projects
-  - volunteer
-  - awards
-  - certificates
-  - skills
-  - languages
-  - interests
-  - references
