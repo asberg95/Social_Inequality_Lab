@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Ongoing Projects
+title: Projects
 permalink: /projects/
 description: Active research projects at the Social Inequality Lab.
 nav: true
