@@ -18,35 +18,18 @@ profiles:
       <p>[University Name]</p>
       <p><a href="mailto:pi@university.edu">pi@university.edu</a></p>
 
-  # Postdoctoral Researchers
-  - align: left
-    image: postdoc_name.jpg
-    content: about_postdoc.md
-    image_circular: false
-    more_info: >
-      <p>Postdoctoral Researcher</p>
-      <p><a href="mailto:postdoc@university.edu">postdoc@university.edu</a></p>
-
   # PhD Students
   - align: right
-    image: phd_student1.jpg
+    image: firaphd.jpeg
     content: about_phd1.md
     image_circular: false
     more_info: >
       <p>PhD Student, [Year]</p>
       <p><a href="mailto:student@university.edu">student@university.edu</a></p>
 
-  - align: left
-    image: phd_student2.jpg
-    content: about_phd2.md
-    image_circular: false
-    more_info: >
-      <p>PhD Student, [Year]</p>
-      <p><a href="mailto:student2@university.edu">student2@university.edu</a></p>
-
   # Master's Students
   - align: right
-    image: masters_student1.jpg
+    image: anyamaster.jpg
     content: about_masters1.md
     image_circular: false
     more_info: >
@@ -55,7 +38,7 @@ profiles:
 
   # Research Assistants
   - align: left
-    image: ra_name.jpg
+    image: alessandro.jpg
     content: about_ra.md
     image_circular: false
     more_info: >
