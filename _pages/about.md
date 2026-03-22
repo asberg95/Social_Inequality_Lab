@@ -1,34 +1,70 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: >
+  <a href='[Department URL]'>Department of Social, Economic, and Organisational Psychology</a> · 
+ Leiden University · 
+ Leiden, The Netherlands
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image: lab_logo.jpg        # use a lab logo or group photo instead of a personal pic
+  image_circular: false
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Room [X], [Building Name]</p>
+    <p>[Street Address]</p>
+    <p>[City, Postcode]</p>
+    <p><a href="mailto:socialinequalitylab@university.edu">socialinequalitylab@university.edu</a></p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
-
+selected_papers: true
+social: true
 announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
-
-latest_posts:
   enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  scrollable: true
+  limit: 5
+latest_posts:
+  enabled: false   # set to true if you plan to run a lab blog
+  scrollable: true
+  limit: 3
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+## Welcome to the Social Inequality Lab
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+We study the causes, mechanisms, and consequences of social inequality. 
+Our research covers various topics, including cooperation, income volatility, financial stress and trust, poverty, and different dimensions of inequality (economics, social, conversion, health). 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+We are based in the department of Social, Economic, and Organisational Psychology at Leiden University, and we combine 
+insights from behavioral economics, social psychology, and cognitive science to address fundamental questions about the effects of inequality on one's behavior. 
+
+---
+
+## Research Approach
+
+Our work sits at the intersection of social psychology, economics, and . We draw on a wide range of methods — including causal 
+inference, sequence analysis, network methods, and natural language processing 
+— to study inequality in rigorous and reproducible ways.
+
+We are committed to open science: our code and data are made publicly 
+available wherever possible.
+
+---
+
+## Principal Investigator
+
+**[Dr. Mirre Stallen]** is [Associate / Full] Professor of [Discipline] at 
+[University Name]. Their research focuses on [e.g. intergenerational mobility, 
+labour market stratification, and the geography of opportunity].
+
+They lead the Social Inequality Lab and are affiliated with 
+**_[e.g. the Institute for Social and Economic Research]._**
+
+→ [Full profile and CV](/people/)
+
+---
+
+## Join Us
+
+We are always interested in hearing from motivated students and researchers 
+who share our passion for understanding social inequality. 
+[Open positions and how to apply →](/join/)
