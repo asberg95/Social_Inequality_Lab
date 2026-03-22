@@ -1,0 +1,36 @@
+/* Social Inequality Lab - Custom Theme Colors */
+:root {
+  --global-theme-color: #C9A84C;        /* gold/yellow from logo */
+  --global-hover-color: #C9A84C;
+  --global-hover-text-color: #fff;
+  --global-footer-bg-color: #0D1B2A;    /* dark navy from logo */
+  --global-footer-text-color: #e0e0e0;
+  --global-footer-link-color: #C9A84C;
+  --global-bg-color: #ffffff;
+  --global-card-bg-color: #f8f9fa;
+}
+
+/* Navbar styling */
+#navbar {
+  background-color: #0D1B2A !important;
+  border-bottom: 2px solid #C9A84C;
+}
+
+#navbar .navbar-brand,
+#navbar .nav-link {
+  color: #ffffff !important;
+}
+
+#navbar .nav-link:hover,
+#navbar .nav-link.active {
+  color: #C9A84C !important;
+}
+
+/* Links */
+a {
+  color: #C9A84C;
+}
+
+a:hover {
+  color: #0D1B2A;
+}
