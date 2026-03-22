@@ -4,8 +4,8 @@ title: About
 permalink: /
 subtitle: >
   <a href='[Department URL]'>Department of Social, Economic, and Organisational Psychology</a> · 
- Leiden University · 
- Leiden, The Netherlands
+  Leiden University · 
+  Leiden, The Netherlands
 
 profile:
   align: right
