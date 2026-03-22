@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://asberg95.github.io/Social_Inequality_Lab/sitemap.xml
