@@ -10,7 +10,7 @@ ninja.data = [{
       window.location.href = "/Social_Inequality_Lab/";
     },
   },{id: "nav-blog",
-          title: "blog",
+          title: "Blog",
           description: "",
           section: "Navigation",
           handler: () => {
