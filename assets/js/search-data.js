@@ -37,21 +37,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/Social_Inequality_Lab/teaching/";
           },
-        },{id: "dropdown-news",
-              title: "News",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/Social_Inequality_Lab/news/";
-              },
-            },{id: "dropdown-blog",
-              title: "Blog",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/Social_Inequality_Lab/blog/";
-              },
-            },{id: "dropdown-join-us",
+        },{id: "dropdown-join-us",
               title: "Join Us",
               description: "",
               section: "Dropdown",
