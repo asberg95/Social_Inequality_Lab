@@ -35,9 +35,8 @@ latest_posts:
          alt="Social Inequality Lab Logo" 
          class="lab-banner-logo">
     <div class="lab-banner-text">
-      <h1>SOCIAL INEQUALITY LAB</h1>
+      <h1>Social Inequality Lab</h1>
       <p>Psychology · Economics · Behaviour</p>
-      <p class="lab-banner-affiliation">Leiden University</p>
     </div>
   </div>
 </div>
