@@ -20,12 +20,12 @@ profile:
 selected_papers: true
 social: true
 announcements:
-  enabled: true
-  scrollable: true
+  enabled: false
+  scrollable: false
   limit: 5
 latest_posts:
   enabled: false   # set to true if you plan to run a lab blog
-  scrollable: true
+  scrollable: false
   limit: 3
 ---
 
