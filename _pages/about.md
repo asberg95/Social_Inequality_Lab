@@ -17,8 +17,8 @@ profile:
     <p>[City, Postcode]</p>
     <p><a href="mailto:socialinequalitylab@university.edu">socialinequalitylab@university.edu</a></p>
 
-selected_papers: true
-social: true
+selected_papers: false
+social: false
 announcements:
   enabled: false
   scrollable: false
@@ -55,25 +55,10 @@ insights from behavioral economics, social psychology, and cognitive science to 
 
 ## Research Approach
 
-Our work sits at the intersection of social psychology, economics, and . We draw on a wide range of methods — including causal 
-inference, sequence analysis, network methods, and natural language processing 
-— to study inequality in rigorous and reproducible ways.
+Our work sits at the intersection of social psychology, economics, and cognitive science. We draw on a wide range of methods... qualitative, quantitative, intervention studies, review papers, .. .. .. 
 
 We are committed to open science: our code and data are made publicly 
 available wherever possible.
-
----
-
-## Principal Investigator
-
-**[Dr. Mirre Stallen]** is [Associate / Full] Professor of [Discipline] at 
-[University Name]. Their research focuses on [e.g. intergenerational mobility, 
-labour market stratification, and the geography of opportunity].
-
-They lead the Social Inequality Lab and are affiliated with 
-**_[e.g. the Institute for Social and Economic Research]._**
-
-→ [Full profile and CV](/people/)
 
 ---
 
