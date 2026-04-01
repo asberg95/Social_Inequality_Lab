@@ -35,14 +35,14 @@ profiles:
       <p>PhD Student, [Year]</p>
       <p><a href="mailto:student@university.edu">student@university.edu</a></p>
 
-  # Master's Students
+  # Bachelor's Students
   - align: right
     image: anya.jpeg
     content: about_masters1.md
     image_circular: true
     more_info: >
-      <p>Master's Student</p>
-      <p><a href="mailto:mstudent@university.edu">mstudent@university.edu</a></p>
+      <p>Bachelor's Student</p>
+      <p><a href="mailto:s3831752@vuw.leidenuniv.nl">s3831752@vuw.leidenuniv.nl</a></p>
 
   # Research Assistants
   - align: right
