@@ -1,8 +1,8 @@
 ---
 ---
-**Anya Benson** is a Master's student in the Department of 
-Social, Economic, and Organisational Psychology at Leiden University.
+**Anya Benson** <br>
+A bachelor’s student in psychology, specialising in social and economic psychology, and will soon begin a master’s degree in this field. She joined the team to explore the interplay between psychological processes and economic decision making in real-world contexts. Her aim is to build on research skills, and to contribute to projects to gain experience translating theoretical knowledge into practice.  
 
-Their research focuses on Trust and Inequality. 
+"<i>I aspire to carry these skills forward into a future career in psychological research of inequality and its effects on human behaviour.<i>" 
 
-**Research interests:** [interest 1], [interest 2], [interest 3]
+
