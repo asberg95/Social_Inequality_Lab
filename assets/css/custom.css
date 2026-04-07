@@ -49,26 +49,6 @@ a {
   margin: 0 auto;
 }
 
-.lab-banner-logo {
-  height: 120px;
-  width: auto;
-}
-
-.lab-banner-text h1 {
-  color: #ffffff;
-  font-size: 2.5rem;
-  font-weight: 700;
-  margin: 0;
-  letter-spacing: 2px;
-}
-
-.lab-banner-text p {
-  color: #C9A84C;
-  font-size: 1rem;
-  letter-spacing: 4px;
-  text-transform: uppercase;
-  margin: 5px 0 0 0;
-}
 
 /* Group photo */
 .lab-group-photo {
