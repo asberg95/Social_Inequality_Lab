@@ -11,11 +11,6 @@ profile:
   align: right
   image: lab_logo.png        # use a lab logo or group photo instead of a personal pic
   image_circular: false
-  more_info: >
-    <p>Room [X], [Building Name]</p>
-    <p>[Street Address]</p>
-    <p>[City, Postcode]</p>
-    <p><a href="mailto:socialinequalitylab@university.edu">socialinequalitylab@university.edu</a></p>
 
 selected_papers: false
 social: false
@@ -31,7 +26,7 @@ latest_posts:
 
 <div class="lab-banner">
   <div class="lab-banner-content">
-    <img src="{{ '/assets/img/lab_logo.jpg' | relative_url }}" 
+    <img src="{{ '/assets/img/lab_logo.png' | relative_url }}" 
          alt="Social Inequality Lab Logo" 
          class="lab-banner-logo">
     <div class="lab-banner-text">
