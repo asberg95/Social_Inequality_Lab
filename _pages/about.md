@@ -9,7 +9,7 @@ subtitle: >
 
 profile:
   align: right
-  image: lab_logo.jpg        # use a lab logo or group photo instead of a personal pic
+  image: lab_logo.png        # use a lab logo or group photo instead of a personal pic
   image_circular: false
   more_info: >
     <p>Room [X], [Building Name]</p>
@@ -50,6 +50,13 @@ Our research covers various topics, including cooperation, income volatility, fi
 
 We are based in the department of Social, Economic, and Organisational Psychology at Leiden University, and we combine 
 insights from behavioral economics, social psychology, and cognitive science to address fundamental questions about the effects of inequality on one's behavior. 
+
+<div class="lab-group-photo">
+  <img src="{{ '/assets/img/isl.jpeg' | relative_url }}" 
+       alt="Social Inequality Lab Members" 
+       class="img-fluid rounded">
+  <p class="photo-caption">The Social Inequality Lab team</p>
+</div>
 
 ---
 
