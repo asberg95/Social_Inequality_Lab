@@ -40,11 +40,9 @@ latest_posts:
 
 ## Welcome to the Social Inequality Lab
 
-We study the causes, mechanisms, and consequences of social inequality. 
-Our research covers various topics, including cooperation, income volatility, financial stress and trust, poverty, and different dimensions of inequality (economics, social, conversion, health). 
+The Social Inequality Lab investigates the psychological processes underlying social decision-making, with a focus on poverty. Through experimental research, we study how inequality shapes both fundamental and applied decision-making processes. We also develop and test interventions aimed at improving the well-being of people in poverty, working in close collaboration with governmental and NGO partners to translate scientific insights into real-world policy.
 
-We are based in the department of Social, Economic, and Organisational Psychology at Leiden University, and we combine 
-insights from behavioral economics, social psychology, and cognitive science to address fundamental questions about the effects of inequality on one's behavior. 
+We are based at the department of Social, Economic, and Organisational Psychology at Leiden University. 
 
 <div class="lab-group-photo">
   <img src="{{ '/assets/img/isl.jpeg' | relative_url }}" 
@@ -52,15 +50,6 @@ insights from behavioral economics, social psychology, and cognitive science to 
        class="img-fluid rounded">
   <p class="photo-caption">The Social Inequality Lab team</p>
 </div>
-
----
-
-## Research Approach
-
-Our work sits at the intersection of social psychology, economics, and cognitive science. We draw on a wide range of methods... qualitative, quantitative, intervention studies, review papers, .. .. .. 
-
-We are committed to open science: our code and data are made publicly 
-available wherever possible.
 
 ---
 
