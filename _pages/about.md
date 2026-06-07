@@ -19,7 +19,11 @@ latest_posts:
   limit: 3
 ---
 
-
+<div class="lab-banner">
+  <div class="lab-banner-content">
+    <img src="{{ '/assets/img/isl_logo.png' | relative_url }}" 
+         alt="Social Inequality Lab Logo" 
+         class="lab-banner-logo">
 
 ## Welcome to the Social Inequality Lab
 
