@@ -34,7 +34,6 @@ We are based at the department of Social, Economic, and Organisational Psycholog
   <p class="photo-caption">The Social Inequality Lab team</p>
 </div>
 
----
 
 ## Join Us
 
