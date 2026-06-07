@@ -1,7 +1,7 @@
 ---
 layout: profiles
 permalink: /people/
-title: Lab Members
+title: Team
 description: Meet the members of the Social Inequality Lab.
 nav: true
 nav_order: 2
@@ -43,14 +43,13 @@ profiles:
     more_info: >
       <p>Bachelor's Student</p>
       <p><a href="mailto:s3831752@vuw.leidenuniv.nl">s3831752@vuw.leidenuniv.nl</a></p>
-      
 - align: right
     image: Mikołaj.jpg
     content: about_masters2.md
     image_circular: true
     more_info: >
       <p>Bachelor's Student</p>
-      <p><a href="mailto:mikolaj.antczak03@gmail.com">mikolaj.antczak03@gmail.com</a></p> 
+      <p><a href="mailto:mikolaj.antczak03@gmail.com">mikolaj.antczak03@gmail.com</a></p>
 
   # Research Assistants
   - align: right
