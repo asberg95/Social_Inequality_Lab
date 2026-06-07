@@ -50,7 +50,7 @@ profiles:
     image_circular: true
     more_info: >
       <p>Bachelor's Student</p>
-      <p><a href="mailto:mikolaj.antczak03@gmail.com">mikolaj.antczak03@gmail.com</a></p>
+      <p><a href="mailto:mikolaj.antczak03@gmail.com">mikolaj.antczak03@gmail.com</a></p> 
 
   # Research Assistants
   - align: right
