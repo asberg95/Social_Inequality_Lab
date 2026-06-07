@@ -29,25 +29,7 @@
 /* Links */
 a {
   color: #C9A84C;
-}
 
-/* Homepage Banner */
-.lab-banner {
-  background-color: #0D1B2A;
-  padding: 40px 20px;
-  margin-bottom: 40px;
-  border-bottom: 3px solid #C9A84C;
-  border-radius: 4px;
-}
-
-.lab-banner-content {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  gap: 30px;
-  max-width: 900px;
-  margin: 0 auto;
-}
 
 
 /* Group photo */
