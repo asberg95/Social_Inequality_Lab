@@ -1,7 +1,4 @@
-**Dr.Mirre Stallen** <br>
-Assistant Professor at the Department of Social, Economic, 
-and Organisational Psychology at Leiden University and a Senior researcher, Poverty Interventions, at the Amsterdam University of Applied Sciences 
+**Dr.Mirre Stallen** <br> 
+An assistant Professor at Leiden University, where she leads the Social Inequality Lab, and also holds a position as Senior Researcher at the Poverty Interventions group of the Amsterdam University of Applied Sciences. These two roles are mutually reinforcing: our academic insights inform the development of real-world poverty interventions, while questions from the field shape the research agenda of her lab.
+After completing her PhD at Erasmus University Rotterdam, she held a postdoctoral position at the Donders Institute for Brain, Cognition, and Behaviour at Radboud University Nijmegen. A subsequent move to Stanford University led to a research fellowship in the Department of Psychology before returning to the Netherlands.
 
-She currently supervises three PhD students at Leiden University, and is the project leader of <i>Gezin en geld</i>, a large cash transfer study currently underway across several municipalities in The Netherlands.
-
-Her research has two main goals: conducting experimental studies on social inequality, particularly poverty and education, to understand the decision-making processes it affects, and developing and testing interventions to improve the well-being of people in poverty, in collaboration with governmental and NGO partners.
