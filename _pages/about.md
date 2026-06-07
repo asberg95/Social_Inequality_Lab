@@ -19,18 +19,6 @@ latest_posts:
   limit: 3
 ---
 
-<div class="lab-banner">
-  <div class="lab-banner-content">
-    <img src="{{ '/assets/img/lab_logo.png' | relative_url }}" 
-         alt="Social Inequality Lab Logo" 
-         class="lab-banner-logo">
-    <div class="lab-banner-text">
-      <h1>Social Inequality Lab</h1>
-      <p>Psychology · Economics · Behaviour</p>
-    </div>
-  </div>
-</div>
-
 
 
 ## Welcome to the Social Inequality Lab
