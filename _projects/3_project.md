@@ -1,19 +1,10 @@
 ---
 layout: page
 title: "Trust the Rich or the Poor: How Does SES Influence Trust?"
-description: Investigating how a person's socioeconomic status influences the amount of trust placed in them by people with low income, using the trust game procedure.
+description: Investigating how a person's socioeconomic status influences the amount of trust placed in them by people with low income, using a trust game paradigm.
 img: assets/img/projects/trust.jpg
 importance: 3
 ---
 
-**Mikołaj Antczak**
-How does a person's socioeconomic status influence the amount of trust placed 
-in them by people with low income? As part of the Honours Research Bachelor 
-Project, this study investigates the impact of a person's SES on how much 
-trust is placed in them by participants with low income in the trust game 
-procedure.
-
-This project aims primarily to provide additional empirical evidence on this 
-disputed issue. The particular focus on participants with low income may open 
-avenues for practical implications — suggesting ways to facilitate trust in 
-interventions aimed at improving upward social mobility.
+**Mikołaj Antczak** <br />
+Currently, as part of the Honours Research Bachelor Project, I am investigating the impact of a person’s SES (socioeconomic status) on how much trust is placed in them by participants with low income in the trust game procedure. This project aims primarily to provide additional empirical evidence on this matter, to help arrive at conclusions regarding this highly disputed issue. Furthermore, the particular focus on participants with low income may open the avenue for practical implications, suggesting ways to facilitate trust in e.g. interventions aimed at improving upwards social mobility.
