@@ -1,5 +1,3 @@
----
----
 **Alessandro van den Berg** <br />
 A Research Assistant at the Social Inequality Lab, Leiden University and a lecturer at the department of Cognitive Psychology. 
 
