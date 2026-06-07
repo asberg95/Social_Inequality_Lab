@@ -14,8 +14,8 @@ profiles:
     image_circular: true
     more_info: >
       <p>Principal Investigator</p>
-      <p>Department of [Sociology / Social Science / etc.]</p>
-      <p>[University Name]</p>
+      <p>Department of Social, Economic, and Organizational Psychology</p>
+      <p>Leiden University</p>
       <p><a href="mailto:pi@university.edu">pi@university.edu</a></p>
 
   # PhD Students
@@ -43,6 +43,14 @@ profiles:
     more_info: >
       <p>Bachelor's Student</p>
       <p><a href="mailto:s3831752@vuw.leidenuniv.nl">s3831752@vuw.leidenuniv.nl</a></p>
+      
+ - align: right
+   image: Mikołaj.jpg
+   content: about_masters2.md
+   image_circular: true
+   more_info: >
+     <p>Bachelor's Student</p>
+     <p><a href="mailto:mikolaj.antczak03@gmail.com">mikolaj.antczak03@gmail.com</a></p>
 
   # Research Assistants
   - align: right
