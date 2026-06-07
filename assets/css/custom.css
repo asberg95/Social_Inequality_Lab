@@ -1,9 +1,9 @@
 /* Social Inequality Lab - Custom Theme Colors */
 :root {
-  --global-theme-color: #C9A84C;        /* gold/yellow from logo */
+  --global-theme-color: #C9A84C;
   --global-hover-color: #C9A84C;
   --global-hover-text-color: #fff;
-  --global-footer-bg-color: #0D1B2A;    /* dark navy from logo */
+  --global-footer-bg-color: #0D1B2A;
   --global-footer-text-color: #e0e0e0;
   --global-footer-link-color: #C9A84C;
   --global-bg-color: #ffffff;
@@ -29,8 +29,11 @@
 /* Links */
 a {
   color: #C9A84C;
+}
 
-
+a:hover {
+  color: #0D1B2A;
+}
 
 /* Group photo */
 .lab-group-photo {
