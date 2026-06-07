@@ -24,8 +24,6 @@ latest_posts:
          alt="Social Inequality Lab Logo" 
          class="lab-banner-logo">
     <div class="lab-banner-text">
-      <h1>Social Inequality Lab</h1>
-      <p>Psychology · Economics · Behaviour</p>
     </div>
   </div>
 </div>
