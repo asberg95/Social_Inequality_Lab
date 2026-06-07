@@ -67,9 +67,9 @@ ninja.data = [{
           description: "Identifying how non-cognitive competences such as academic self-efficacy play a role in the education achievement gap, and how interventions can stimulate academic performance in students of lower socio-economic status.",
           section: "Projects",handler: () => {
               window.location.href = "/Social_Inequality_Lab/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+            },},{id: "projects-income-volatility-and-well-being",
+          title: 'Income Volatility and Well-Being',
+          description: "A scoping review mapping the relationships between income volatility and mental, physical, and social well-being.",
           section: "Projects",handler: () => {
               window.location.href = "/Social_Inequality_Lab/projects/2_project/";
             },},{id: "projects-project-3-with-very-long-name",
