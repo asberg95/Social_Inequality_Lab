@@ -3,7 +3,7 @@ layout: about
 title: About
 permalink: /
 subtitle: >
-  <a href='https://www.universiteitleiden.nl/en/social-behavioural-sciences/psychology'>Department of Social, Economic, and Organisational Psychology</a> · 
+  <a href='[https://www.universiteitleiden.nl/en/social-behavioural-sciences/psychology](https://www.universiteitleiden.nl/en/social-behavioural-sciences/psychology/social-economic-and-organisational-psychology)'>Department of Social, Economic, and Organisational Psychology</a> · 
   Leiden University · 
   Leiden, The Netherlands
 selected_papers: false
