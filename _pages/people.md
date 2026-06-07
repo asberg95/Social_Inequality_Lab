@@ -44,7 +44,7 @@ profiles:
       <p>Bachelor's Student</p>
       <p><a href="mailto:s3831752@vuw.leidenuniv.nl">s3831752@vuw.leidenuniv.nl</a></p>
 - align: right
-    image: Mikołaj.jpg
+    image: Mikolaj.jpg
     content: about_masters2.md
     image_circular: true
     more_info: >
