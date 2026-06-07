@@ -23,13 +23,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/Social_Inequality_Lab/research/";
           },
-        },{id: "nav-teaching",
-          title: "Teaching",
-          description: "Course materials, schedules, and resources for classes taught.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/Social_Inequality_Lab/teaching/";
-          },
         },{id: "dropdown-join-us",
               title: "Join Us",
               description: "",
