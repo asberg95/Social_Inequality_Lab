@@ -72,9 +72,9 @@ ninja.data = [{
           description: "A scoping review mapping the relationships between income volatility and mental, physical, and social well-being.",
           section: "Projects",handler: () => {
               window.location.href = "/Social_Inequality_Lab/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
+            },},{id: "projects-trust-the-rich-or-the-poor-how-does-ses-influence-trust",
+          title: 'Trust the Rich or the Poor: How Does SES Influence Trust?',
+          description: "Investigating how a person&#39;s socioeconomic status influences the amount of trust placed in them by people with low income, using the trust game procedure.",
           section: "Projects",handler: () => {
               window.location.href = "/Social_Inequality_Lab/projects/3_project/";
             },},{id: "projects-project-4",
