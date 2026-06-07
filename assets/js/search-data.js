@@ -23,12 +23,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/Social_Inequality_Lab/publications/";
           },
-        },{id: "nav-projects",
-          title: "Projects",
+        },{id: "nav-research",
+          title: "Research",
           description: "Active research projects at the Social Inequality Lab.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/Social_Inequality_Lab/projects/";
+            window.location.href = "/Social_Inequality_Lab/research/";
           },
         },{id: "nav-teaching",
           title: "Teaching",
