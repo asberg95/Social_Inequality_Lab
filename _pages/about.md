@@ -7,11 +7,6 @@ subtitle: >
   Leiden University · 
   Leiden, The Netherlands
 
-profile:
-  align: right
-  image: lab_logo.png        # use a lab logo or group photo instead of a personal pic
-  image_circular: false
-
 selected_papers: false
 social: false
 announcements:
