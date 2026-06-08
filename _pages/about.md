@@ -42,7 +42,7 @@ We are based at the department of Social, Economic, and Organisational
 Psychology at Leiden University.
 
 <div class="lab-group-photo">
-  <img src="{{ '/assets/img/isl.png' | relative_url }}" 
+  <img src="{{ '/assets/img/isl_team.png' | relative_url }}" 
        alt="Social Inequality Lab Members" 
        class="img-fluid rounded">
   <p class="photo-caption">The Social Inequality Lab team</p>
