@@ -17,7 +17,7 @@ profiles:
       <p>Department of Social, Economic, and Organizational Psychology</p>
       <p>Leiden University</p>
       <p><a href="m.stallen@fsw.leidenuniv.nl">m.stallen@fsw.leidenuniv.nl</a></p>
-      <p>Personal website:<a href="mirrestallen.com">[m.stallen@fsw.leidenuniv.nl](http://www.mirrestallen.nl)</a></p>
+      <p>Personal website:<a href="mirrestallen.com">http://www.mirrestallen.nl</a></p>
 
 
   # PhD Students
