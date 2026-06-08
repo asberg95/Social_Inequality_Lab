@@ -26,6 +26,21 @@
   color: #C9A84C !important;
 }
 
+.lab-banner-logo {
+  height: 80px;        /* reduced from 180px */
+  width: auto;
+}
+
+.lab-banner {
+  background-color: #0D1B2A;
+  padding: 30px 40px;  /* reduced from 70px */
+  margin-bottom: 50px;
+  border-bottom: 4px solid #C9A84C;
+  border-radius: 6px;
+  width: 100%;
+}
+
+
 /* Links */
 a {
   color: #C9A84C;
