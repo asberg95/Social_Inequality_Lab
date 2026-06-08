@@ -27,13 +27,13 @@
 }
 
 .lab-banner-logo {
-  height: 80px;        /* reduced from 180px */
+  height: 150px;        /* reduced from 180px */
   width: auto;
 }
 
 .lab-banner {
   background-color: #0D1B2A;
-  padding: 30px 40px;  /* reduced from 70px */
+  padding: 50px 40px;  /* reduced from 70px */
   margin-bottom: 50px;
   border-bottom: 4px solid #C9A84C;
   border-radius: 6px;
@@ -43,7 +43,7 @@
 
 /* Links */
 a {
-  color: #C9A84C;
+  color: #f9ac30;
 }
 
 a:hover {
