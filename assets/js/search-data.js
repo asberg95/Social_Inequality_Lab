@@ -3,8 +3,8 @@ const ninja = document.querySelector('ninja-keys');
 
 // add the home and posts menu items
 ninja.data = [{
-    id: "nav-",
-    title: "",
+    id: "nav-about",
+    title: "About",
     section: "Navigation",
     handler: () => {
       window.location.href = "/Social_Inequality_Lab/";
@@ -70,14 +70,14 @@ ninja.data = [{
           description: "Investigating how a person&#39;s socioeconomic status influences the amount of trust placed in them by people with low income, using a trust game paradigm.",
           section: "Projects",handler: () => {
               window.location.href = "/Social_Inequality_Lab/projects/3_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
+            },},{id: "projects-hair-cortisol-as-a-biomarker-of-chronic-stress-linking-socioeconomic-and-health-inequalities-a-meta-analysis",
+          title: 'Hair Cortisol as a Biomarker of Chronic Stress Linking Socioeconomic and Health Inequalities:...',
+          description: "A meta-analytic project that covers the relationship between socioeconomic status and chronic stress among healthy adults, with hair cortisol serving as a long-term, retrospective measure of cortisol concentrations.",
           section: "Projects",handler: () => {
               window.location.href = "/Social_Inequality_Lab/projects/4_project/";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
+            },},{id: "projects-exploring-the-impact-of-life-coaching-on-stress-and-decision-making-in-low-socioeconomic-communities",
+          title: 'Exploring the Impact of Life Coaching on Stress and Decision-Making in Low Socioeconomic...',
+          description: "....",
           section: "Projects",handler: () => {
               window.location.href = "/Social_Inequality_Lab/projects/5_project/";
             },},{id: "projects-project-6",
