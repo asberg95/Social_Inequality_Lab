@@ -16,7 +16,9 @@ profiles:
       <p>Principal Investigator</p>
       <p>Department of Social, Economic, and Organizational Psychology</p>
       <p>Leiden University</p>
-      <p><a href="mailto:pi@university.edu">pi@university.edu</a></p>
+      <p><a href="m.stallen@fsw.leidenuniv.nl">m.stallen@fsw.leidenuniv.nl</a></p>
+      <p>Personal website:<a href="mirrestallen.com">[m.stallen@fsw.leidenuniv.nl](http://www.mirrestallen.nl)</a></p>
+
 
   # PhD Students
   - align: right
@@ -24,7 +26,7 @@ profiles:
     content: about_phd1.md
     image_circular: true
     more_info: >
-      <p>PhD Student, [Year]</p>
+      <p>PhD Student</p>
       <p><a href="mailto:student@university.edu">student@university.edu</a></p>
 
   - align: right
@@ -32,7 +34,7 @@ profiles:
     content: about_phd2.md
     image_circular: true
     more_info: >
-      <p>PhD Student, [Year]</p>
+      <p>PhD Student</p>
       <p><a href="mailto:student@university.edu">student@university.edu</a></p>
 
   # Bachelor's Students
