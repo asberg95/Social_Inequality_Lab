@@ -24,7 +24,7 @@ profiles:
     image_circular: true
     more_info: >
       <p>PhD Student</p>
-      <p><a href="mailto:student@university.edu">student@university.edu</a></p>
+      <p><a href="mailto:z.r.n.shabrina@fsw.leidenuniv.nl ">z.r.n.shabrina@fsw.leidenuniv.nl</a></p>
 
   - align: right
     image: halima.jpeg
@@ -32,7 +32,7 @@ profiles:
     image_circular: true
     more_info: >
       <p>PhD Student</p>
-      <p><a href="mailto:student@university.edu">student@university.edu</a></p>
+      <p><a href="mailto:h.bouras@fsw.leidenuniv.nl">h.bouras@fsw.leidenuniv.nl</a></p>
 
   # Bachelor's Students
   - align: right
@@ -58,5 +58,5 @@ profiles:
     image_circular: true
     more_info: >
       <p>Research Assistant</p>
-      <p><a href="mailto:ra@university.edu">ra@university.edu</a></p>
+      <p><a href="mailto:a.s.van.den.berg@fsw.leidenuniv.nl">a.s.van.den.berg@fsw.leidenuniv.nl</a></p>
 ---
