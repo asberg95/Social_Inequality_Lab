@@ -13,9 +13,6 @@ profiles:
     content: about_pi.md        # create this file in _pages/
     image_circular: true
     more_info: >
-      <p>Principal Investigator</p>
-      <p>Department of Social, Economic, and Organizational Psychology</p>
-      <p>Leiden University</p>
       <p><a href="m.stallen@fsw.leidenuniv.nl">m.stallen@fsw.leidenuniv.nl</a></p>
       <p>Personal website:<a href="mirrestallen.com">http://www.mirrestallen.nl</a></p>
 
