@@ -17,15 +17,10 @@ latest_posts:
   scrollable: false
   limit: 3
 ---
-
-<div class="lab-banner">
-  <div class="lab-banner-content">
-    <img src="{{ '/assets/img/isl_logo.png' | relative_url }}" 
-         alt="Social Inequality Lab Logo" 
-         class="lab-banner-logo">
-    <div class="lab-banner-text">
-    </div>
-  </div>
+<div style="text-align: center; margin: 20px 0;">
+  <img src="{{ '/assets/img/isl_logo.png' | relative_url }}" 
+       alt="Social Inequality Lab Logo" 
+       style="height: 130px; width: auto;">
 </div>
 
 ## Welcome to the Social Inequality Lab
