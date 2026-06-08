@@ -3,7 +3,7 @@ layout: about
 title: About
 permalink: /
 subtitle: >
-  <a href='[https://www.universiteitleiden.nl/en/social-behavioural-sciences/psychology](https://www.universiteitleiden.nl/en/social-behavioural-sciences/psychology/social-economic-and-organisational-psychology)'>Department of Social, Economic, and Organisational Psychology</a> · 
+  <a href='https://www.universiteitleiden.nl/en/social-behavioural-sciences/psychology'>Department of Social, Economic, and Organisational Psychology</a> · 
   Leiden University · 
   Leiden, The Netherlands
 selected_papers: false
@@ -20,7 +20,7 @@ latest_posts:
 <div style="text-align: center; margin: 20px 0;">
   <img src="{{ '/assets/img/isl_logo.png' | relative_url }}" 
        alt="Social Inequality Lab Logo" 
-       style="height: 130px; width: auto;">
+       style="height: 150px; width: auto;">
 </div>
 
 ## Welcome to the Social Inequality Lab
