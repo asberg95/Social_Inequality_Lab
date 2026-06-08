@@ -85,9 +85,9 @@ ninja.data = [{
           description: "....",
           section: "Projects",handler: () => {
               window.location.href = "/Social_Inequality_Lab/projects/6_project/";
-            },},{id: "projects-project-7",
-          title: 'project 7',
-          description: "with background image",
+            },},{id: "projects-retirement-planning-among-financially-vulnerable-workers",
+          title: 'Retirement Planning Among Financially Vulnerable Workers',
+          description: "....",
           section: "Projects",handler: () => {
               window.location.href = "/Social_Inequality_Lab/projects/7_project/";
             },},{id: "projects-project-8",
