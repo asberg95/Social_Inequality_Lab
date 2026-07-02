@@ -5,7 +5,7 @@ permalink: /research/
 description: Active research projects at the Social Inequality Lab.
 nav: true
 nav_order: 3
-horizontal: false
+horizontal: True
 ---
 <!-- pages/research.md -->
 <div class="projects">
