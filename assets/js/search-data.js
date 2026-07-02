@@ -55,7 +55,12 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-development-of-non-cognitive-competences-and-academic-performance",
+          section: "News",},{id: "projects-shared-and-unshared-social-indentity-and-trust",
+          title: 'Shared and unshared Social Indentity and Trust',
+          description: "...",
+          section: "Projects",handler: () => {
+              window.location.href = "/Social_Inequality_Lab/projects/10_project/";
+            },},{id: "projects-development-of-non-cognitive-competences-and-academic-performance",
           title: 'Development of Non-Cognitive Competences and Academic Performance',
           description: "Identifying how non-cognitive competences such as academic self-efficacy play a role in the education achievement gap, and how interventions can stimulate academic performance in students of lower socio-economic status.",
           section: "Projects",handler: () => {
