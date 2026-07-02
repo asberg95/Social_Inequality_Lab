@@ -3,4 +3,6 @@ A bachelor’s student in psychology, specialising in social and economic psycho
 
 "<i>I aspire to carry these skills forward into a future career in psychological research of inequality and its effects on human behaviour.<i>" 
 
+**Research interests:** Behavioral Economics, Social Behavior, Trust, and Health 
+
 
