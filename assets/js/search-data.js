@@ -95,9 +95,9 @@ ninja.data = [{
           description: "....",
           section: "Projects",handler: () => {
               window.location.href = "/Social_Inequality_Lab/projects/8_project/";
-            },},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
+            },},{id: "projects-inequality-and-partner-choice",
+          title: 'Inequality and Partner Choice',
+          description: "....",
           section: "Projects",handler: () => {
               window.location.href = "/Social_Inequality_Lab/projects/9_project/";
             },},{
