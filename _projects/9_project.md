@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Inequality and Partner Choice"
-description: .... 
+description: Studying how inequality in resources and productivity shapes cooperation partner choices, how much they cooperate, and how punishment interacts with partner choice in unequal settings.
 importance: 3
 ---
 
