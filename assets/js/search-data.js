@@ -97,7 +97,7 @@ ninja.data = [{
               window.location.href = "/Social_Inequality_Lab/projects/7_project/";
             },},{id: "projects-social-capital",
           title: 'Social Capital',
-          description: "....",
+          description: "Studying the impact of social capital on social mobility, and examaning whether third parties account for it when evaluating individual achievement.",
           section: "Projects",handler: () => {
               window.location.href = "/Social_Inequality_Lab/projects/8_project/";
             },},{id: "projects-inequality-and-partner-choice",
