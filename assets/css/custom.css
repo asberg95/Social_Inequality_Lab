@@ -1,11 +1,11 @@
 /* Social Inequality Lab - Custom Theme Colors */
 :root {
-  --global-theme-color: #C9A84C;
-  --global-hover-color: #C9A84C;
+  --global-theme-color: #8b66bc;
+  --global-hover-color: #8b66bc;
   --global-hover-text-color: #fff;
   --global-footer-bg-color: #0D1B2A;
   --global-footer-text-color: #e0e0e0;
-  --global-footer-link-color: #C9A84C;
+  --global-footer-link-color: #8b66bc;
   --global-bg-color: #ffffff;
   --global-card-bg-color: #f8f9fa;
 }
@@ -14,7 +14,7 @@
 #navbar {
   background-color: #ffffff !important;
   border-bottom: 3px solid #8b66bc;
-  min-height: 100px;
+  min-height: 120px;
   padding-top: 10px;
   padding-bottom: 10px;
 }
@@ -29,24 +29,9 @@
   color: #8b66bc !important;
 }
 
-.lab-banner-logo {
-  height: 150px;        /* reduced from 180px */
-  width: auto;
-}
-
-.lab-banner {
-  background-color: #0D1B2A;
-  padding: 50px 40px;  /* reduced from 70px */
-  margin-bottom: 50px;
-  border-bottom: 4px solid #C9A84C;
-  border-radius: 6px;
-  width: 100%;
-}
-
-
 /* Links */
 a {
-  color: #f9ac30;
+  color: #8b66bc;
 }
 
 a:hover {
@@ -63,7 +48,7 @@ a:hover {
   width: 100%;
   max-width: 900px;
   height: auto;
-  border: 3px solid #C9A84C;
+  border: 3px solid #8b66bc;
 }
 
 .photo-caption {
