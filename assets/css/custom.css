@@ -51,6 +51,11 @@ a:hover {
   border: 3px solid #8b66bc;
 }
 
+/* Hide description on individual project pages */
+.post-description {
+  display: none;
+}
+
 .photo-caption {
   color: #666;
   font-style: italic;
