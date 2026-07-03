@@ -57,7 +57,7 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-shared-and-unshared-social-indentity-and-trust",
           title: 'Shared and unshared Social Indentity and Trust',
-          description: "...",
+          description: "Examining how shared and unshared social identities shape trust and reciprocity between individuals in advantaged and disadvantaged positions.",
           section: "Projects",handler: () => {
               window.location.href = "/Social_Inequality_Lab/projects/10_project/";
             },},{id: "projects-development-of-non-cognitive-competences-and-academic-performance",
