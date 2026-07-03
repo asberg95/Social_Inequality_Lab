@@ -102,7 +102,7 @@ ninja.data = [{
               window.location.href = "/Social_Inequality_Lab/projects/8_project/";
             },},{id: "projects-inequality-and-partner-choice",
           title: 'Inequality and Partner Choice',
-          description: "....",
+          description: "Studying how inequality in resources and productivity shapes cooperation partner choices, how much they cooperate, and how punishment interacts with partner choice in unequal settings.",
           section: "Projects",handler: () => {
               window.location.href = "/Social_Inequality_Lab/projects/9_project/";
             },},{
