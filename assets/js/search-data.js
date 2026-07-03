@@ -92,7 +92,7 @@ ninja.data = [{
               window.location.href = "/Social_Inequality_Lab/projects/6_project/";
             },},{id: "projects-retirement-planning-among-financially-vulnerable-workers",
           title: 'Retirement Planning Among Financially Vulnerable Workers',
-          description: "....",
+          description: "This project investigates the psychological and contextual factors that hinder or facilitate retirement planning among populations who bear disproportionate personal responsibility for their own retirement.",
           section: "Projects",handler: () => {
               window.location.href = "/Social_Inequality_Lab/projects/7_project/";
             },},{id: "projects-social-capital",
