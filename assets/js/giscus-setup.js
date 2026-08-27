@@ -18,7 +18,7 @@ function determineGiscusTheme() {
 
   let giscusAttributes = {
     src: "https://giscus.app/client.js",
-    "data-repo": "asberg95/Social_Inequality_Lab",
+    "data-repo": "mirremirre/Social_Inequality_Lab",
     "data-repo-id": "",
     "data-category": "Comments",
     "data-category-id": "",
