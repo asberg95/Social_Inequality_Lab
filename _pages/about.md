@@ -44,9 +44,3 @@ Psychology at Leiden University.
 </div>
 
 <hr>
-
-
-We are always interested in hearing from motivated students and researchers 
-who share our passion for understanding social inequality. 
-
-[Open positions and how to apply →](/join/)
