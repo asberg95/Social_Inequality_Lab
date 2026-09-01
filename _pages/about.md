@@ -17,11 +17,11 @@ latest_posts:
   scrollable: false
   limit: 3
 ---
-style="text-align: center; margin: 20px 0;">
+<div> style="text-align: center; margin: 20px 0;">
   <img src="{{ '/assets/img/isl_logo.png' | relative_url }}" 
        alt="Social Inequality Lab Logo" 
        style="height: 300px; width: auto;">
-
+</div>
 
 ## Welcome to the Social Inequality Lab
 
