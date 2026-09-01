@@ -30,21 +30,14 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/research/";
           },
-        },{id: "dropdown-join-us",
-              title: "Join Us",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/join/";
-              },
-            },{id: "dropdown-contact",
-              title: "Contact",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/contact/";
-              },
-            },{id: "news-a-simple-inline-announcement",
+        },{id: "nav-more",
+          title: "More",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/_pages/contact/";
+          },
+        },{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
           description: "",
           section: "News",},{id: "news-a-long-announcement-with-details",
