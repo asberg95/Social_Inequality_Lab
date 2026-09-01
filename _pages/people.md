@@ -44,7 +44,7 @@ profiles:
       <p><a href="mailto:s3831752@vuw.leidenuniv.nl">s3831752@vuw.leidenuniv.nl</a></p>
 
   - align: right
-    image: Mikolaj2.jpg
+    image: Mikolaj2.jpeg
     content: about_masters2.md
     image_circular: true
     more_info: >
