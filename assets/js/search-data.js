@@ -9,7 +9,14 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-team",
+  },{id: "nav-contact",
+          title: "Contact",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/contact/";
+          },
+        },{id: "nav-team",
           title: "Team",
           description: "Meet the members of the Social Inequality Lab.",
           section: "Navigation",
@@ -29,13 +36,6 @@ ninja.data = [{
           section: "Navigation",
           handler: () => {
             window.location.href = "/research/";
-          },
-        },{id: "nav-more",
-          title: "More",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/_pages/contact/";
           },
         },{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
