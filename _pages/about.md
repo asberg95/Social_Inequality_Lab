@@ -3,7 +3,7 @@ layout: about
 title: About
 permalink: /
 subtitle: >
-  <a href='https://www.universiteitleiden.nl/en/social-behavioural-sciences/psychology'>Department of Social, Economic, and Organisational Psychology</a> · 
+  <a href='https://www.universiteitleiden.nl/en/social-behavioural-sciences/psychology/social-economic-and-organisational-psychology'>Department of Social, Economic, and Organisational Psychology</a> · 
   Leiden University · 
   Leiden, The Netherlands
 selected_papers: false
@@ -45,7 +45,6 @@ Psychology at Leiden University.
 
 <hr>
 
-## Join Us
 
 We are always interested in hearing from motivated students and researchers 
 who share our passion for understanding social inequality. 
