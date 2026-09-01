@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Shared and unshared Social Indentity and Trust 
+title: Shared and unshared Social Identity and Trust 
 description: Examining how shared and unshared social identities shape trust and reciprocity between individuals in advantaged and disadvantaged positions.
 importance: 2
 ---
